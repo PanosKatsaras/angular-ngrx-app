@@ -19,7 +19,7 @@ Getting Started
 # 1. Clone the Repository
 bash
 Copy code
-git clone [https://github.com/your-username/angular-ngrx-material-table.git]
+git clone https://github.com/PanosKatsaras/angular-ngrx-app.git
 cd angular-ngrx
 
 # 2. Install Dependencies
