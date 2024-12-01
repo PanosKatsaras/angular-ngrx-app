@@ -6,11 +6,17 @@ This Angular project, built with Node.js 20.11.1 and Angular 17.2.0, demonstrate
 
 # Features
 NgRx Store for state management
+
 NgRx Effects to handle side-effects like data fetching
+
 NgRx Selectors for accessing state data
+
 Material Table for displaying student data
+
 MatSnackBar for displaying error and failure messages
+
 RxJS for managing asynchronous data fetching with Observables
+
 NgRx DevTools for state management debugging
 
 # Requirements
