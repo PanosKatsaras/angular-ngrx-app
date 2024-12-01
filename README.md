@@ -2,7 +2,7 @@
 
 
 # Angular Project with NgRx, Material Table, and RxJS
-This Angular project, built with Node.js 20.11.1 and Angular 17.2.0, demonstrates how to use NgRx for state management, Material Table for displaying data, MatSnackBar for feedback messages (success, failure, error), and RxJS for handling asynchronous operations like HTTP requests. The app fetches student data from an API, manages the state with Store, Actions, Reducers, Selectors, Effects, and uses Observables for managing the asynchronous flow.
+This Angular project, built with Node.js 20.11.1 and Angular 17.2.0, demonstrates how to use NgRx for state management, Material Table for displaying data, MatSnackBar for feedback messages (failure, error), and RxJS for handling asynchronous operations like HTTP requests. The app fetches student data from an API, manages the state with Store, Actions, Reducers, Selectors, Effects, and uses Observables for managing the asynchronous flow.
 
 # Features
 NgRx Store for state management
