@@ -78,8 +78,13 @@ Leverage RxJS for handling asynchronous operations and side-effects effectively.
 
 # Technologies Used
 Node.js 20.11.1: JavaScript runtime
+
 Angular 17.2.0: Framework for building the application
+
 NgRx: State management (Store, Actions, Reducers, Effects, Selectors)
+
 Angular Material: UI components (Material Table, MatSnackBar, etc.)
+
 RxJS: Library for reactive programming and handling async operations
+
 HttpClient: Service for making HTTP requests
