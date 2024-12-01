@@ -37,12 +37,19 @@ git clone https://github.com/PanosKatsaras/angular-ngrx-app.git
 cd angular-ngrx-app
 
 # 2. Install Dependencies
-Ensure Node.js 20.11.1 is installed using nvm (Node Version Manager), then install project dependencies:
+Ensure Node.js 20.11.1 is installed 
+
+using nvm (Node Version Manager),
+
+then install project dependencies:
 
 bash
 Copy code
+
 nvm install 20.11.1
+
 nvm use 20.11.1
+
 npm install
 
 # 3. Run the Application
