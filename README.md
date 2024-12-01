@@ -21,9 +21,13 @@ NgRx DevTools for state management debugging
 
 # Requirements
 Node.js 20.11.1
+
 npm (comes with Node.js)
+
 Angular 17.2.0
-Getting Started
+
+
+# Getting Started
 
 # 1. Clone the Repository
 bash
