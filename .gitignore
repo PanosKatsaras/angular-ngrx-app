@@ -6,10 +6,23 @@
 /out-tsc
 /bazel-out
 
+# Ignore environment files
+/src/environments/environment.ts
+/src/environments/environment.prod.ts
+
+# Ignore .env file
+.env
+
+# Ignore db.json file
+db.json
+
+
 # Node
 /node_modules
 npm-debug.log
 yarn-error.log
+
+
 
 # IDEs and editors
 .idea/
