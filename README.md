@@ -68,7 +68,7 @@ For debugging state changes, use the NgRx DevTools extension in your browser. It
 
 # Project Structure
 src/app/state: Contains NgRx-related files (actions, reducers, selectors, effects).
-src/app/records-table: Contains component that interact with the UI, including the Material Table for displaying students.
+src/app/students-table: Contains component that interact with the UI, including the Material Table for displaying students.
 src/app/services: Responsible for making HTTP requests to fetch student data.
 src/environments: Holds environment-specific configurations like API URL.
 # NgRx Flow
